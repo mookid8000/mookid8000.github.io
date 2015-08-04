@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Blog Tjek</title>
+    <link>https://mookid8000.github.io/categories/hugo/</link>
+    <description>Recent content in Hugo on Blog Tjek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 04 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mookid8000.github.io/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello world</title>
+      <link>https://mookid8000.github.io/posts/hello-world/</link>
+      <pubDate>Tue, 04 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://mookid8000.github.io/posts/hello-world/</guid>
+      <description>
+
+&lt;h1 id=&#34;whoah:aa77bbfd89a7b0ff10def205b9c08d51&#34;&gt;whoah!!&lt;/h1&gt;
+
+&lt;p&gt;This is supposed to be easy :)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;This is some code
+This is some more code
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I wonder if &lt;code&gt;inline_code()&lt;/code&gt; works as it should?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
